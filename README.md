@@ -128,7 +128,7 @@ Jenkins-beginner-learning/
 
 4. **Save and Build**:
     - Save the project configuration.
-    - Click "Build Now" to run the pipeline using the `Jenkinsfile` from the GitHub repository.
+    - Click "Build Now" to run the pipeline.
 
 ## Contributing
 
