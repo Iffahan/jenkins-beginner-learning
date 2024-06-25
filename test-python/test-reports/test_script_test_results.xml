@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite name="TestMathOperations-20240625190327" tests="2" file=".py" time="0.006" timestamp="2024-06-25T19:03:27" failures="0" errors="0" skipped="0">
+		<testcase classname="TestMathOperations" name="test_add" time="0.006" timestamp="2024-06-25T19:03:27" file="test_script_test.py" line="7"/>
+		<testcase classname="TestMathOperations" name="test_subtract" time="0.000" timestamp="2024-06-25T19:03:27" file="test_script_test.py" line="11"/>
+	</testsuite>
+</testsuites>
