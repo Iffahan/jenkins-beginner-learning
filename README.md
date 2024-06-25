@@ -12,6 +12,9 @@ Jenkins-beginner-learning/
 └── test-reports/test_script_test_results.xml
 ```
 
+for macos, cp the repo to .jenkins/workspace in users/{yourusername} folder
+
+
 - **Jenkinsfile**: Contains the Jenkins Pipeline configuration.
 - **test_script.py**: A simple Python script with basic math operations.
 - **test_script_test.py**: Unit tests for `test_script.py`.
